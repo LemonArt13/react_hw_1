@@ -2,7 +2,6 @@ body {
   background-color: #dadfe4;
 }
 
-
 .description {
   text-align: center;
   padding: 30px;
@@ -11,6 +10,14 @@ body {
 .avatar {
   max-width: 100px;
   border-radius: 50%;
+}
+
+.profile {
+  margin-top: 10px;
+  background-color: #ffffff;
+  color: #e6ecf2;
+  width: 350px;
+  border-radius: 10px;
 }
 
 .name {
