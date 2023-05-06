@@ -38,6 +38,8 @@ body {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
+  border-end-end-radius: 10px;
+  border-end-start-radius: 10px;
 }
 
 .stats > li {
@@ -46,8 +48,6 @@ body {
   justify-content: center;
   align-items: center;
   flex: 1 0 100px;
-  border-end-end-radius: 10px;
-  border-end-start-radius: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
