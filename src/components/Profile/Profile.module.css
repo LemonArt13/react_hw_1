@@ -1,14 +1,7 @@
 body {
-  background-color: #e6ecf2;
+  background-color: #dadfe4;
 }
 
-.profile {
-  margin-top: 10px;
-  background-color: #ffffff;
-  color: #e6ecf2;
-  width: 350px;
-  border-radius: 10px;
-}
 
 .description {
   text-align: center;
@@ -22,16 +15,14 @@ body {
 
 .name {
   font-size: 24px;
-  line-height: 1.2;
   font-weight: 700;
-  color: #202020;
+  color: #000000;
 }
 
 .tag,
 .location {
   font-size: 18px;
-  line-height: 1.2;
-  color: #a1abb6;
+  color: #939aa0;
 }
 
 .stats {
@@ -51,9 +42,6 @@ body {
   justify-content: center;
   align-items: center;
   flex: 1 0 100px;
-  border: 1px solid #c6ced6;
-  border-end-end-radius: 10px;
-  border-end-start-radius: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
