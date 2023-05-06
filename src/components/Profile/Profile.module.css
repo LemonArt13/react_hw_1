@@ -1,5 +1,5 @@
 body {
-  background-color: #dadfe4;
+  background-color: #f6f8fa;
 }
 
 .description {
@@ -36,11 +36,8 @@ body {
   background-color: #d6e1ea;
   list-style: none;
   padding: 0;
-
   display: flex;
   flex-wrap: wrap;
-  border-end-end-radius: 10px;
-  border-end-start-radius: 10px;
 }
 
 .stats > li {
